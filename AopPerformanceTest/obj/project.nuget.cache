@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L0kmyTl/omCw9dzCKPAbOS0p0OervrU+KSNfG+SAjyDE5myOMW2XlQQze9NkJallwpMcZBW2c2XjVH1MXUR6VQ==",
+  "success": true,
+  "projectFilePath": "E:\\Code\\Test\\RealProxyPerformanceTest\\AopPerformanceTest\\AopPerformanceTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MWang\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.10\\microsoft.extensions.dependencyinjection.3.1.10.nupkg.sha512",
+    "C:\\Users\\MWang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.10\\microsoft.extensions.dependencyinjection.abstractions.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

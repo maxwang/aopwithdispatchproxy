@@ -1,0 +1,16 @@
+E:\Code\Test\RealProxyPerformanceTest\RealProxyPerformanceTest\bin\Debug\netcoreapp3.1\RealProxyPerformanceTest.exe
+E:\Code\Test\RealProxyPerformanceTest\RealProxyPerformanceTest\obj\Debug\netcoreapp3.1\RealProxyPerformanceTest.csprojAssemblyReference.cache
+E:\Code\Test\RealProxyPerformanceTest\RealProxyPerformanceTest\obj\Debug\netcoreapp3.1\RealProxyPerformanceTest.AssemblyInfoInputs.cache
+E:\Code\Test\RealProxyPerformanceTest\RealProxyPerformanceTest\obj\Debug\netcoreapp3.1\RealProxyPerformanceTest.AssemblyInfo.cs
+E:\Code\Test\RealProxyPerformanceTest\RealProxyPerformanceTest\bin\Debug\netcoreapp3.1\RealProxyPerformanceTest.deps.json
+E:\Code\Test\RealProxyPerformanceTest\RealProxyPerformanceTest\bin\Debug\netcoreapp3.1\RealProxyPerformanceTest.runtimeconfig.json
+E:\Code\Test\RealProxyPerformanceTest\RealProxyPerformanceTest\bin\Debug\netcoreapp3.1\RealProxyPerformanceTest.runtimeconfig.dev.json
+E:\Code\Test\RealProxyPerformanceTest\RealProxyPerformanceTest\bin\Debug\netcoreapp3.1\RealProxyPerformanceTest.dll
+E:\Code\Test\RealProxyPerformanceTest\RealProxyPerformanceTest\bin\Debug\netcoreapp3.1\RealProxyPerformanceTest.pdb
+E:\Code\Test\RealProxyPerformanceTest\RealProxyPerformanceTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Code\Test\RealProxyPerformanceTest\RealProxyPerformanceTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Code\Test\RealProxyPerformanceTest\RealProxyPerformanceTest\obj\Debug\netcoreapp3.1\RealProxyPerformanceTest.csproj.CoreCompileInputs.cache
+E:\Code\Test\RealProxyPerformanceTest\RealProxyPerformanceTest\obj\Debug\netcoreapp3.1\RealProxyPerformanceTest.csproj.CopyComplete
+E:\Code\Test\RealProxyPerformanceTest\RealProxyPerformanceTest\obj\Debug\netcoreapp3.1\RealProxyPerformanceTest.dll
+E:\Code\Test\RealProxyPerformanceTest\RealProxyPerformanceTest\obj\Debug\netcoreapp3.1\RealProxyPerformanceTest.pdb
+E:\Code\Test\RealProxyPerformanceTest\RealProxyPerformanceTest\obj\Debug\netcoreapp3.1\RealProxyPerformanceTest.genruntimeconfig.cache
